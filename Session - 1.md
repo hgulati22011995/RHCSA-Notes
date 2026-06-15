@@ -1,5 +1,3 @@
-Below are the **English-only structured notes** from the transcript, organized for RHCSA (RHEL 8) training and Linux beginners.
-
 # RHCSA (RHEL 8) Training – Session 1 Notes
 
 ## Course Objective
